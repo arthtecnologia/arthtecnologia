@@ -8,8 +8,7 @@ Contamos hoje com um grande quadro funcionários, entre eles, administradores, a
 
 
 ## Linguagens de Programação e Ferramentas
-<div>
-  <a href="https://github.com/MatheusLetra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthtecnologia&layout=compact&langs_count=16&theme=light"/>
-</div>
+   - Delphi
+   - Java
+   - React Native
   
