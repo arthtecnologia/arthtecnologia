@@ -11,4 +11,6 @@ Contamos hoje com um grande quadro funcionários, entre eles, administradores, a
    - Delphi
    - Java
    - React Native
+   - NodeJs
+   - PHP
   
